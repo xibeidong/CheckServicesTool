@@ -1,0 +1,8 @@
+G:\projects\TimerRunBat\CheckServicrsTools\bin\Debug\CheckServicrsTools.exe
+G:\projects\TimerRunBat\CheckServicrsTools\bin\Debug\CheckServicrsTools.pdb
+G:\projects\TimerRunBat\CheckServicrsTools\obj\x86\Debug\CheckServicrsTools.Properties.Resources.resources
+G:\projects\TimerRunBat\CheckServicrsTools\obj\x86\Debug\CheckServicrsTools.csproj.GenerateResource.Cache
+G:\projects\TimerRunBat\CheckServicrsTools\obj\x86\Debug\CheckServicrsTools.exe
+G:\projects\TimerRunBat\CheckServicrsTools\obj\x86\Debug\CheckServicrsTools.pdb
+G:\projects\TimerRunBat\CheckServicrsTools\obj\x86\Debug\CheckServicrsTools.csprojResolveAssemblyReference.cache
+G:\projects\TimerRunBat\CheckServicrsTools\obj\x86\Debug\CheckServicrsTools.Form1.resources

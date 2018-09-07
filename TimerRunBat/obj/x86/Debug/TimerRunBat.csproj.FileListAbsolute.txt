@@ -1,0 +1,4 @@
+G:\projects\TimerRunBat\TimerRunBat\bin\Debug\TimerRunBat.exe
+G:\projects\TimerRunBat\TimerRunBat\bin\Debug\TimerRunBat.pdb
+G:\projects\TimerRunBat\TimerRunBat\obj\x86\Debug\TimerRunBat.exe
+G:\projects\TimerRunBat\TimerRunBat\obj\x86\Debug\TimerRunBat.pdb
